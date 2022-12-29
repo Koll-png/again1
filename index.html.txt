@@ -1,1 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ПРивет)<title>
+    <meta charset="ufa-8">
+    <meta name="keywords" content="html">
+   <head>
+   <body>это заголовок
+    <h1>это тоже<h1>
+    <h2>это h2<h2>
+    <h3>эот h3<h3>
 <html>
